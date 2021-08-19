@@ -1,2 +1,2 @@
 # Evaluation-of-Image-model
-Image classification of CIFAR-10
+The project is about training and testing the image classification by using CIFAR-10 dataset.
